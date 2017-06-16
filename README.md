@@ -1,5 +1,7 @@
 # t1m3r
 
+![Screenshot](Notify.png "Screenshot")
+
 ## Kick launch
 `curl -L https://raw.githubusercontent.com/epfl-dojo/t1m3r/master/t1m3r.sh | zsh`
 
